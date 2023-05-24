@@ -1,15 +1,7 @@
 ## Hi there 👋
-
-<table cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vdyakov&theme=solarized" alt="Profile details">
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vdyakov&theme=solarized" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdyakov&show_icons=true&line_height=20&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdyakov&layout=compact&langs_count=6)](https://github.com/vdyakov/github-readme-stats)
 
 ## Tech stack
 <p>
