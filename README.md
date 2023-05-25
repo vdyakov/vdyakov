@@ -28,22 +28,28 @@
   <a href="https://www.yiiframework.com" target="_blank">
     <img alt="Yii" src="https://img.shields.io/badge/-Yii%20framework-1e6887?style=for-the-badge" />
   </a>
-  <a href="https://vuejs.org" target="_blank">
-    <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  </a>
   <a href="https://react.dev" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
   </a>
+  <a href="https://vuejs.org" target="_blank">
+    <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  </a>
+  <a href="https://nuxt.com/" target="_blank">
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-012a35?style=for-the-badge&logo=nuxt.js&logoColor=00dc82" />
+  </a>
 </p>
 <p>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://www.mysql.com" target="_blank">
     <img alt="MySql" src="https://img.shields.io/badge/-MySql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <a href="https://www.microsoft.com/sql-server" target="_blank">
+    <img alt="MS SQL" src="https://img.shields.io/badge/-MS%20SQL-f2f2f2?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
   </a>
 </p>
 <p>
@@ -52,6 +58,9 @@
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
+    <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab%20CI-2f2a6b?style=for-the-badge&logo=gitlab&logoColor=orange" />
   </a>
 </p>
 
