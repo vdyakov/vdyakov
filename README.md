@@ -63,11 +63,14 @@
   <a href="mailto:vyacheslav08071996@gmail.com" target="_blank">
     <img alt="vyacheslav08071996@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/slavik-dyakov/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ## Experience
 <p>
-  <a href="https://digital-solutions.efko.ru" target="_blank">
+  <a href="https://career.habr.com/companies/efko-cr" target="_blank">
     <img alt="EFKO" src="https://img.shields.io/badge/-EFKO-43853d?style=for-the-badge&logo=adeo&logoColor=white" />
   </a>
   <a href="https://angelsit.ru" target="_blank">
