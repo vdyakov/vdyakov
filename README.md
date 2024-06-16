@@ -5,6 +5,9 @@
 
 ## Tech stack
 <p>
+  <a href="https://go.dev" target="_blank">
+    <img alt="Golang" src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img alt="php" src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
   </a>
@@ -79,6 +82,9 @@
 
 ## Experience
 <p>
+  <a href="https://latech.ru" target="_blank">
+    <img alt="LaTech" src="https://img.shields.io/badge/-Lamoda%20Tech-CBFF00?style=for-the-badge&logo=adeo&logoColor=black" />
+  </a>
   <a href="https://career.habr.com/companies/efko-cr" target="_blank">
     <img alt="EFKO" src="https://img.shields.io/badge/-EFKO-43853d?style=for-the-badge&logo=adeo&logoColor=white" />
   </a>
